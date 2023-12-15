@@ -1,0 +1,11 @@
+aloy|Aloy|Cryo hypostasis|freedom
+amber|Amber|Pyro Regisvine|freedom
+barbra|Barbra|Oceanid|freedom
+childe|Childe|Oceanid|freedom
+bennett|Bennett|Pyro Regisvine|resistance
+xiangling|Xiangling|Pyro Regisvine|diligence
+xiao|Xiao|Anemo Hypostasis|prosperity
+freminet|Freminet|Icewind Suite|justice
+albedo|Albedo|Geo Hypostasis|ballad
+kazuha|Kazuha|Magu Kenki|diligence
+heizou|Heizou|Ruin Serpent|transience

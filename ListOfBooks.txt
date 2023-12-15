@@ -1,0 +1,15 @@
+freedom|1|Mondstadt|Books of Freedom
+resistance|2|Mondstadt|Books of Resistance
+ballad|3|Mondstadt|Books of Ballad
+prosperity|1|Liyue|Books of Prosperity
+diligence|2|Liyue|Books of Diligence
+gold|3|Liyue|Books of Gold
+transience|1|Inazuma|Books of Transience
+elegance|2|Inazuma|Books of Elegance
+light|3|Inazuma|Books of Light
+admonition|1|Sumeru|Books of Admonition
+ingenuity|2|Sumeru|Books of Ingenuity
+praxis|3|Sumeru|Books of Praxis
+equity|1|Fontaine|Books of Equity
+justice|2|Fontaine|Books of Justice
+order|3|Fontaine|Books of Order
